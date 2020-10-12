@@ -3,10 +3,10 @@ Simple RESTful API using nodejs and mongodb
 
 # commands
 # test
-npm i
-npm run build
-npm start
+npm i__
+npm run build__
+npm start__
 
 # development
-npm i
-npm run dev
+npm i__
+npm run dev__
